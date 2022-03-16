@@ -1,4 +1,4 @@
-# Script Premium
+# Script Premium (Multi Websocket)
  Welcome Dear😊
 
  <h2 align="center">AutoScript VPN Premium <img src="https://img.shields.io/badge/Version-1.0-blue.svg"></h2>
